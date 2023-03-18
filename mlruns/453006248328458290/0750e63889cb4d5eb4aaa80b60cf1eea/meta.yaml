@@ -1,0 +1,15 @@
+artifact_uri: mlruns/453006248328458290/0750e63889cb4d5eb4aaa80b60cf1eea/artifacts
+end_time: 1679148007370
+entry_point_name: ''
+experiment_id: '453006248328458290'
+lifecycle_stage: active
+run_id: 0750e63889cb4d5eb4aaa80b60cf1eea
+run_name: honorable-jay-73
+run_uuid: 0750e63889cb4d5eb4aaa80b60cf1eea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679147974547
+status: 3
+tags: []
+user_id: vinay

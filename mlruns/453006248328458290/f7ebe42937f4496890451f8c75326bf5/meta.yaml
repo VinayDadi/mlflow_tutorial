@@ -1,0 +1,15 @@
+artifact_uri: mlruns/453006248328458290/f7ebe42937f4496890451f8c75326bf5/artifacts
+end_time: 1679148138594
+entry_point_name: ''
+experiment_id: '453006248328458290'
+lifecycle_stage: active
+run_id: f7ebe42937f4496890451f8c75326bf5
+run_name: respected-smelt-613
+run_uuid: f7ebe42937f4496890451f8c75326bf5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1679148109444
+status: 3
+tags: []
+user_id: vinay
